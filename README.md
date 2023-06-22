@@ -1,9 +1,10 @@
-# React TypeScript Starter Pack
+# React Typescript Todo App
 
-To use this template click `Use this template`
+[DEMO LINK](https://kavon-skela.github.io/react_todo_app/)
 
-### Available Scripts
+This app was created using React, Typescript, Bulma, and SCSS.
+Re-rendering has been optimized using useMemo and useCallback.
+Also, this app is using useContext hook to avoid unnecessary props throwing.
+All the transformations are accompanied by react transitions.
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+You can add, rename, remove, and filter all the todos.
